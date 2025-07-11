@@ -1,0 +1,18 @@
+[project]
+name = "liat-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gdown>=5.2.0",
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.3.0",
+    "scikit-learn>=1.7.0",
+    "tensorboard>=2.19.0",
+    "torch>=2.7.1",
+    "torchreid>=0.2.5",
+    "torchvision>=0.22.1",
+    "tqdm>=4.67.1",
+    "ultralytics>=8.3.163",
+]
