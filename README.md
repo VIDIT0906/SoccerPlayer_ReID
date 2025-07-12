@@ -81,3 +81,8 @@ python detect.py
 - Pillow
 
 ---
+
+## ✅ Notes
+- Code assumes CUDA GPU availability for Re-ID acceleration. Will fallback to CPU if not available.
+- Re-ID consistency is based on cosine similarity between player feature embeddings.
+- Detection confidence threshold is set at `0.4`.
