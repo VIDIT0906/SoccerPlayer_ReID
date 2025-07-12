@@ -9,7 +9,6 @@ This project implements real-time object detection and visual re-identification 
 - 🎯 **Tracking with Re-ID Output**:
   [![Watch the video](https://img.youtube.com/vi/5Aijc9gZyag/maxresdefault.jpg)](https://youtu.be/5Aijc9gZyag)
   [Watch this video on YouTube](https://youtu.be/5Aijc9gZyag)
-  https://github.com/user-attachments/assets/2717fa80-a70b-4d00-9639-a7143998b087
 ---
 
 ## 📁 Folder Structure
