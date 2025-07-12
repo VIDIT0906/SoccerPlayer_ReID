@@ -47,7 +47,7 @@ uv run detect.py
 ```
 
 ### Alternative 2: If pip is available 
-**### **Create and activate a virtual environment (recommended)**
+**Create and activate a virtual environment (recommended)**
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
