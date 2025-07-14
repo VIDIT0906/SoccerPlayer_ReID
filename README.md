@@ -21,10 +21,12 @@ project/
 ├── output/
 │   ├── tracked_frames/
 │   └── tracked_video.mp4
+├── Brief Report.pdf
 ├── detect.py
 ├── pyproject.toml
-├── uv.lock
-└── README.md
+├── README.md
+├── requirements.txt
+└── uv.lock
 ```
 
 ## ⚙️ Setup Instructions
