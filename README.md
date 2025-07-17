@@ -38,13 +38,13 @@ cd SoccerPlayer_ReID
 ```
 
 ### Step 2: Virtual Environment initializtion
-### Alternative 1: If uv is available
+### Alternative 1: If uv is available (recommended)
 ``` bash
 uv run detect.py
 ```
 
 ### Alternative 2: If pip is available 
-**Create and activate a virtual environment (recommended)**
+**Create and activate a virtual environment**
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
